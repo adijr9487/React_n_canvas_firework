@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wish_you_bro/static/css/main.745fbafb.chunk.css",
-    "main.js": "/wish_you_bro/static/js/main.452f3dbd.chunk.js",
-    "main.js.map": "/wish_you_bro/static/js/main.452f3dbd.chunk.js.map",
+    "main.js": "/wish_you_bro/static/js/main.9e03af23.chunk.js",
+    "main.js.map": "/wish_you_bro/static/js/main.9e03af23.chunk.js.map",
     "runtime-main.js": "/wish_you_bro/static/js/runtime-main.fd0f1d31.js",
     "runtime-main.js.map": "/wish_you_bro/static/js/runtime-main.fd0f1d31.js.map",
     "static/js/2.581c0c22.chunk.js": "/wish_you_bro/static/js/2.581c0c22.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.fd0f1d31.js",
     "static/js/2.581c0c22.chunk.js",
     "static/css/main.745fbafb.chunk.css",
-    "static/js/main.452f3dbd.chunk.js"
+    "static/js/main.9e03af23.chunk.js"
   ]
 }
