@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Canvas/Canvas.css"],"names":[],"mappings":"AAGA,uBACI,iBAAkB,CAClB,WAAY,CACZ,UACJ","file":"main.745fbafb.chunk.css","sourcesContent":[".Canvas{\r\n    \r\n}\r\n.CanvasStyle{\r\n    position: absolute;\r\n    height: 100%;\r\n    width: 100%;\r\n}"]}

@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/wish_you_bro/static/css/main.dc873b1a.chunk.css",
-    "main.js": "/wish_you_bro/static/js/main.a0ebba5e.chunk.js",
-    "main.js.map": "/wish_you_bro/static/js/main.a0ebba5e.chunk.js.map",
+    "main.css": "/wish_you_bro/static/css/main.745fbafb.chunk.css",
+    "main.js": "/wish_you_bro/static/js/main.452f3dbd.chunk.js",
+    "main.js.map": "/wish_you_bro/static/js/main.452f3dbd.chunk.js.map",
     "runtime-main.js": "/wish_you_bro/static/js/runtime-main.fd0f1d31.js",
     "runtime-main.js.map": "/wish_you_bro/static/js/runtime-main.fd0f1d31.js.map",
-    "static/js/2.e89138af.chunk.js": "/wish_you_bro/static/js/2.e89138af.chunk.js",
-    "static/js/2.e89138af.chunk.js.map": "/wish_you_bro/static/js/2.e89138af.chunk.js.map",
+    "static/js/2.581c0c22.chunk.js": "/wish_you_bro/static/js/2.581c0c22.chunk.js",
+    "static/js/2.581c0c22.chunk.js.map": "/wish_you_bro/static/js/2.581c0c22.chunk.js.map",
     "index.html": "/wish_you_bro/index.html",
-    "static/css/main.dc873b1a.chunk.css.map": "/wish_you_bro/static/css/main.dc873b1a.chunk.css.map",
-    "static/js/2.e89138af.chunk.js.LICENSE.txt": "/wish_you_bro/static/js/2.e89138af.chunk.js.LICENSE.txt"
+    "static/css/main.745fbafb.chunk.css.map": "/wish_you_bro/static/css/main.745fbafb.chunk.css.map",
+    "static/js/2.581c0c22.chunk.js.LICENSE.txt": "/wish_you_bro/static/js/2.581c0c22.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fd0f1d31.js",
-    "static/js/2.e89138af.chunk.js",
-    "static/css/main.dc873b1a.chunk.css",
-    "static/js/main.a0ebba5e.chunk.js"
+    "static/js/2.581c0c22.chunk.js",
+    "static/css/main.745fbafb.chunk.css",
+    "static/js/main.452f3dbd.chunk.js"
   ]
 }
